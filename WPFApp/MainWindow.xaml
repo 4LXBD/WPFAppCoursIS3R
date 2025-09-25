@@ -5,8 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="520" Width="700">
+    <StackPanel Margin="12">
+        <TextBlock Text="From (your email)" Margin="0,4"/>
+        <TextBox Name="FromBox"/>
 
-    </Grid>
+        <TextBlock Text="Password (App Password for Gmail)" Margin="0,4"/>
+        <PasswordBox Name="PasswordBox"/>
+
+        <TextBlock Text="To (recipient)" Margin="0,4"/>
+        <TextBox Name="ToBox"/>
+
+        <TextBlock Text="Subject" Margin="0,4"/>
+        <TextBox Name="SubjectBox"/>
+
+        <TextBlock Text="Message" Margin="0,4"/>
+        <TextBox Name="BodyBox" Height="100" AcceptsReturn="True" TextWrapping="Wrap"/>
+
+        <Button Name="SendButton" Content="Send Email" Margin="0,8" Height="30" Click="SendButton_Click"/>
+        <TextBlock Name="StatusBlock" Foreground="DarkBlue" Margin="0,6"/>
+    </StackPanel>
 </Window>
