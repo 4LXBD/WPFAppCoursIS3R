@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +42,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Converters.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Converters.cs",
+              "RelativeToolTip": "WPFApp\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:39:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\TaskItem.cs",
+              "RelativeDocumentMoniker": "WPFApp\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\TaskItem.cs",
+              "RelativeToolTip": "WPFApp\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:32:03.657Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ToDoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ToDoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ToDoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ToDoWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\ToDoWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:26:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ToDoWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\ToDoWindow.xaml",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ToDoWindow.xaml",
+              "RelativeToolTip": "WPFApp\\ToDoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T08:26:32.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\EmailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\EmailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\EmailWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\EmailWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:00:55.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\EmailWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\EmailWindow.xaml",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\EmailWindow.xaml",
+              "RelativeToolTip": "WPFApp\\EmailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T08:00:51.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T08:56:04.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T08:56:04.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:56:02.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T08:56:02.181Z"
             }
           ]
         },

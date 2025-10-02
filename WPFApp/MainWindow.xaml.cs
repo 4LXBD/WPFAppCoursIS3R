@@ -22,29 +22,16 @@ namespace WPFApp
         {
             InitializeComponent();
         }
-
-        private async void SendButton_Click(object sender, RoutedEventArgs e)
+        private void OpenEmailWindow_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                var mail = new MailMessage(FromBox.Text, ToBox.Text, SubjectBox.Text, BodyBox.Text);
+            EmailWindow emailWindow = new EmailWindow();
+            emailWindow.Show();
+        }
 
-
-                using (var client = new SmtpClient("smtp.gmail.com", 587))
-                {
-                    client.Credentials = new NetworkCredential(FromBox.Text, PasswordBox.Password);
-                    client.EnableSsl = true;
-
-                    await client.SendMailAsync(mail);
-                }
-
-                StatusBlock.Text = "Email sent successfully!";
-            }
-
-            catch (System.Exception ex)
-            {
-                StatusBlock.Text = $"Error: {ex.Message}";
-            }
+        private void OpenToDoWindow_Click(object sender, RoutedEventArgs e)
+        {
+            var todo = new ToDoWindow();
+            todo.Show();
         }
     }
 }
