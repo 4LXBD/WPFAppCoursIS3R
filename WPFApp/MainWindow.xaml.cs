@@ -33,5 +33,11 @@ namespace WPFApp
             var todo = new ToDoWindow();
             todo.Show();
         }
+
+        private void OpenChronoWindow_Click(object sender, RoutedEventArgs e)
+        {
+            var chrono = new ChronoWindow();
+            chrono.Show();
+        }
     }
 }
