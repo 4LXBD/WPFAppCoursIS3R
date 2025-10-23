@@ -9,6 +9,7 @@
                 <MenuItem Header="Envoyer un email" Click="OpenEmailWindow_Click"/>
                 <MenuItem Header="To-Do list" Click="OpenToDoWindow_Click"/>
                 <MenuItem Header="Chronomètre" Click="OpenChronoWindow_Click"/>
+                <MenuItem Header="Communication reseau" Click="OpenCommunicationWindow_CLick"/>
             </MenuItem>
         </Menu>
 
@@ -26,6 +27,7 @@
                 <Button Content="Envoyer un email" Width="160" Height="40" Click="OpenEmailWindow_Click"/>
                 <Button Content="To-Do list" Width="160" Height="40" Click="OpenToDoWindow_Click"/>
                 <Button Content="Chronomètre" Width="160" Height="40" Click="OpenChronoWindow_Click"/>
+                <Button Content="Communication reseau" Width="160" Height="40" Click="OpenCommunicationWindow_CLick"/>
             </StackPanel>
         </Grid>
     </DockPanel>

@@ -13,9 +13,7 @@ using System.Windows.Shapes;
 
 namespace WPFApp
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -38,6 +36,12 @@ namespace WPFApp
         {
             var chrono = new ChronoWindow();
             chrono.Show();
+        }
+
+        private void OpenCommunicationWindow_CLick(object sender, RoutedEventArgs e)
+        {
+            var comm = new WPFApp.Views.CommunicationWindow();
+            comm.Show();
         }
     }
 }

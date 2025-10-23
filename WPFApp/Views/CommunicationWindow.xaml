@@ -1,0 +1,105 @@
+﻿<Window x:Class="WPFApp.Views.CommunicationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:WPFApp.ViewModels"
+        mc:Ignorable="d"
+        Title="Communication Réseau"
+        Height="550" Width="800">
+
+    <Window.DataContext>
+        <vm:CommunicationViewModel/>
+    </Window.DataContext>
+
+    <DockPanel>
+        <!-- === MENU PRINCIPAL === -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Communication">
+                <!-- Sous-menu Listener/Client -->
+                <MenuItem Header="Listener/Client">
+                    <MenuItem Header="Écouter"
+                              Command="{Binding ListenerEcouterCommand}" />
+                    <MenuItem Header="Connecter"
+                              Command="{Binding ListenerConnecterCommand}" />
+                </MenuItem>
+
+                <!-- Sous-menu UDP -->
+                <MenuItem Header="UDP">
+                    <MenuItem Header="Écouter"
+                              Command="{Binding UdpEcouterCommand}" />
+                    <MenuItem Header="Connecter"
+                              Command="{Binding UdpConnecterCommand}" />
+                </MenuItem>
+
+                <!-- Sous-menu Socket -->
+                <MenuItem Header="Socket">
+                    <MenuItem Header="Écouter"
+                              Command="{Binding ListenerEcouterCommand}" />
+                    <MenuItem Header="Connecter"
+                              Command="{Binding ListenerConnecterCommand}" />
+                    <MenuItem Header="Déconnecter"
+                              Command="{Binding EnvoyerCommand}" />
+                </MenuItem>
+            </MenuItem>
+
+            <!-- Menu Utilitaire -->
+            <MenuItem Header="_Utilitaire">
+                <MenuItem Header="Vérifier"
+                          Command="{Binding VerifierCommand}" />
+            </MenuItem>
+        </Menu>
+
+        <!-- === CONTENU PRINCIPAL === -->
+        <Grid Margin="10">
+            <!-- Définitions correctes des lignes et colonnes -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- ligne 0 : Serveur -->
+                <RowDefinition Height="Auto"/>
+                <!-- ligne 1 : IP -->
+                <RowDefinition Height="Auto"/>
+                <!-- ligne 2 : Message -->
+                <RowDefinition Height="Auto"/>
+                <!-- ligne 3 : Bouton Envoyer -->
+                <RowDefinition Height="*"/>
+                <!-- ligne 4 : Echanges (remplissage) -->
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- colonne 0 : labels -->
+                <ColumnDefinition Width="*"/>
+                <!-- colonne 1 : champs -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Champ Serveur -->
+            <Label Grid.Row="0" Grid.Column="0" Content="Serveur:" VerticalAlignment="Center" />
+            <TextBox Grid.Row="0" Grid.Column="1" Margin="5"
+                     Text="{Binding Serveur, UpdateSourceTrigger=PropertyChanged}" />
+
+            <!-- Champ IP -->
+            <Label Grid.Row="1" Grid.Column="0" Content="Adresse IP:" VerticalAlignment="Center" />
+            <TextBox Grid.Row="1" Grid.Column="1" Margin="5"
+                     Text="{Binding IP}" IsReadOnly="True" />
+
+            <!-- Champ Message -->
+            <Label Grid.Row="2" Grid.Column="0" Content="Message:" VerticalAlignment="Center" />
+            <TextBox Grid.Row="2" Grid.Column="1" Margin="5"
+                     Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}" />
+
+            <!-- Bouton Envoyer -->
+            <Button Grid.Row="3" Grid.Column="1" Margin="5" Padding="5"
+                    Content="Envoyer" HorizontalAlignment="Left"
+                    Command="{Binding EnvoyerCommand}" />
+
+            <!-- Zone Echanges -->
+            <Label Grid.Row="4" Grid.Column="0" Content="Échanges:" VerticalAlignment="Top" />
+            <TextBox Grid.Row="4" Grid.Column="1" Margin="5"
+                     Text="{Binding Echanges}" 
+                     VerticalScrollBarVisibility="Auto"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap" />
+        </Grid>
+    </DockPanel>
+</Window>
