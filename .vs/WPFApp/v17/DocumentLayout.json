@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\models\\communicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\models\\communicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\views\\communicationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\communicationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\views\\communicationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\communicationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\viewmodels\\communicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\communicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\models\\communicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\models\\communicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\views\\communicationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\communicationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\viewmodels\\communicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\communicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\chronoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\views\\communicationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\communicationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96812BFA-D3AA-4BCD-A839-C49D07847E2B}|WPFApp\\WPFApp.csproj|c:\\users\\baesc\\documents\\ecole\\fiches_de_cours\\is3r\\b3q1\\programmation_th\\vs\\wpfapp\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,100 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommunicationModel.cs",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Models\\CommunicationModel.cs",
-              "RelativeDocumentMoniker": "WPFApp\\Models\\CommunicationModel.cs",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Models\\CommunicationModel.cs",
-              "RelativeToolTip": "WPFApp\\Models\\CommunicationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T08:52:39.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChronoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ChronoViewModel.cs",
-              "RelativeDocumentMoniker": "WPFApp\\ChronoViewModel.cs",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ChronoViewModel.cs",
-              "RelativeToolTip": "WPFApp\\ChronoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:15:45.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
-              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T08:56:04.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Helpers\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "WPFApp\\Helpers\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Helpers\\RelayCommand.cs",
-              "RelativeToolTip": "WPFApp\\Helpers\\RelayCommand.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:24:26.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommunicationWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Views\\CommunicationWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\Views\\CommunicationWindow.xaml",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Views\\CommunicationWindow.xaml",
-              "RelativeToolTip": "WPFApp\\Views\\CommunicationWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-23T07:15:55.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CommunicationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ViewModels\\CommunicationViewModel.cs",
               "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CommunicationViewModel.cs",
               "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ViewModels\\CommunicationViewModel.cs",
               "RelativeToolTip": "WPFApp\\ViewModels\\CommunicationViewModel.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAewDsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAArwJEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T08:06:36.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WPFApp",
-              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\WPFApp.csproj",
-              "RelativeDocumentMoniker": "WPFApp\\WPFApp.csproj",
-              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\WPFApp.csproj",
-              "RelativeToolTip": "WPFApp\\WPFApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T09:43:39.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CommunicationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Views\\CommunicationWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\Views\\CommunicationWindow.xaml.cs",
@@ -180,6 +104,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "WPFApp\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:24:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T08:56:04.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommunicationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Views\\CommunicationWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CommunicationWindow.xaml",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Views\\CommunicationWindow.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\CommunicationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T07:15:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommunicationModel.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Models\\CommunicationModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Models\\CommunicationModel.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\Models\\CommunicationModel.cs",
+              "RelativeToolTip": "WPFApp\\Models\\CommunicationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:52:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChronoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ChronoViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ChronoViewModel.cs",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ChronoViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ChronoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:15:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WPFApp.csproj",
+              "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\WPFApp.csproj",
+              "RelativeDocumentMoniker": "WPFApp\\WPFApp.csproj",
+              "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\WPFApp.csproj",
+              "RelativeToolTip": "WPFApp\\WPFApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T09:43:39.08Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\MainWindow.xaml.cs",
@@ -188,8 +186,7 @@
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:56:02.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T08:56:02.181Z"
             },
             {
               "$type": "Document",
@@ -200,8 +197,7 @@
               "ToolTip": "C:\\Users\\baesc\\Documents\\Ecole\\Fiches_de_cours\\IS3R\\B3Q1\\Programmation_Th\\VS\\WPFApp\\WPFApp\\ChronoWindow.xaml",
               "RelativeToolTip": "WPFApp\\ChronoWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-09T08:03:59.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T08:03:59.726Z"
             },
             {
               "$type": "Document",
@@ -249,8 +245,7 @@
               "RelativeToolTip": "WPFApp\\ToDoWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T08:26:36.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T08:26:36.796Z"
             },
             {
               "$type": "Document",

@@ -50,6 +50,7 @@ namespace WPFApp.ViewModels
         public ICommand UdpEcouterCommand { get; }
         public ICommand ListenerEcouterCommand { get; }
         public ICommand ListenerConnecterCommand { get; }
+        public ICommand DeconnecterCommand { get; }
         public ICommand EnvoyerCommand { get; }
 
         private bool _udpListening = false;
@@ -62,6 +63,7 @@ namespace WPFApp.ViewModels
             UdpEcouterCommand = new RelayCommand(_ => ToggleUdpEcoute());
             ListenerEcouterCommand = new RelayCommand(_ => ToggleTcpListener());
             ListenerConnecterCommand = new RelayCommand(async _ => await TcpConnecterAsync());
+            DeconnecterCommand = new RelayCommand(async _ => await DeconnecterAsync());
             EnvoyerCommand = new RelayCommand(async _ => await EnvoyerViaTcpClientAsync());
         }
 
@@ -123,10 +125,57 @@ namespace WPFApp.ViewModels
             await _model.TcpClientSendAsync($"Machine {Environment.MachineName} connectée");
         }
 
+        private async Task DeconnecterAsync()
+        {
+            try
+            {
+                if (_model.TcpClientConnected)
+                {
+                    await _model.TcpDisconnectAsync();
+                    AppendEchange("Client TCP déconnecté.");
+                }
+                else
+                {
+                    AppendEchange("Aucune connexion TCP à fermer.");
+                }
+            }
+            catch (Exception ex)
+            {
+                AppendEchange("Erreur déconnexion TCP: " + ex.Message);
+            }
+        }
+
         private async Task EnvoyerViaTcpClientAsync()
         {
-            await _model.TcpClientSendAsync(Message);
-            AppendEchange("Client a envoyé: " + Message);
+            if (string.IsNullOrWhiteSpace(Message))
+            {
+                AppendEchange("Aucun message à envoyer.");
+                return;
+            }
+
+            bool sent = false;
+
+            try
+            {
+                // === Tentative d'envoi via TCP ===
+                if (_model.TcpClientConnected)
+                {
+                    await _model.TcpClientSendAsync(Message);
+                    AppendEchange("Message envoyé (TCP): " + Message);
+                    sent = true;
+                }
+
+                // === Envoi aussi via UDP (par défaut ou si TCP non dispo) ===
+                if (!sent || _udpListening)
+                {
+                    await _model.UdpSendAsync(Serveur, 8080, Message);
+                    AppendEchange("Message envoyé (UDP): " + Message);
+                }
+            }
+            catch (Exception ex)
+            {
+                AppendEchange($"Erreur lors de l’envoi: {ex.Message}");
+            }
         }
 
         private void AppendEchange(string text)

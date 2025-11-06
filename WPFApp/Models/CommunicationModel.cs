@@ -31,6 +31,8 @@ namespace WPFApp.Models
         private StreamWriter? _tcpClientWriter;
         private readonly object _tcpClientLock = new object();
 
+        public bool TcpClientConnected => _tcpClient != null && _tcpClient.Connected;
+
         public CommunicationModel()
         {
         }

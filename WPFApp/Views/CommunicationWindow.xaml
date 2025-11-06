@@ -28,7 +28,7 @@
                 <MenuItem Header="UDP">
                     <MenuItem Header="Écouter"
                               Command="{Binding UdpEcouterCommand}" />
-                    <MenuItem Header="Connecter"
+                    <MenuItem Header="Connecter + envoyer message"
                               Command="{Binding UdpConnecterCommand}" />
                 </MenuItem>
 
@@ -39,7 +39,7 @@
                     <MenuItem Header="Connecter"
                               Command="{Binding ListenerConnecterCommand}" />
                     <MenuItem Header="Déconnecter"
-                              Command="{Binding EnvoyerCommand}" />
+                              Command="{Binding DeconnecterCommand}" />
                 </MenuItem>
             </MenuItem>
 
